@@ -1,0 +1,15 @@
+/Users/chloeqo/Library/CloudStorage/OneDrive-AsiaPacificUniversity/dotnet_web_app/ConsoleApp/bin/Debug/net9.0/ConsoleApp
+/Users/chloeqo/Library/CloudStorage/OneDrive-AsiaPacificUniversity/dotnet_web_app/ConsoleApp/bin/Debug/net9.0/ConsoleApp.deps.json
+/Users/chloeqo/Library/CloudStorage/OneDrive-AsiaPacificUniversity/dotnet_web_app/ConsoleApp/bin/Debug/net9.0/ConsoleApp.runtimeconfig.json
+/Users/chloeqo/Library/CloudStorage/OneDrive-AsiaPacificUniversity/dotnet_web_app/ConsoleApp/bin/Debug/net9.0/ConsoleApp.dll
+/Users/chloeqo/Library/CloudStorage/OneDrive-AsiaPacificUniversity/dotnet_web_app/ConsoleApp/bin/Debug/net9.0/ConsoleApp.pdb
+/Users/chloeqo/Library/CloudStorage/OneDrive-AsiaPacificUniversity/dotnet_web_app/ConsoleApp/obj/Debug/net9.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chloeqo/Library/CloudStorage/OneDrive-AsiaPacificUniversity/dotnet_web_app/ConsoleApp/obj/Debug/net9.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/chloeqo/Library/CloudStorage/OneDrive-AsiaPacificUniversity/dotnet_web_app/ConsoleApp/obj/Debug/net9.0/ConsoleApp.AssemblyInfo.cs
+/Users/chloeqo/Library/CloudStorage/OneDrive-AsiaPacificUniversity/dotnet_web_app/ConsoleApp/obj/Debug/net9.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/chloeqo/Library/CloudStorage/OneDrive-AsiaPacificUniversity/dotnet_web_app/ConsoleApp/obj/Debug/net9.0/ConsoleApp.dll
+/Users/chloeqo/Library/CloudStorage/OneDrive-AsiaPacificUniversity/dotnet_web_app/ConsoleApp/obj/Debug/net9.0/refint/ConsoleApp.dll
+/Users/chloeqo/Library/CloudStorage/OneDrive-AsiaPacificUniversity/dotnet_web_app/ConsoleApp/obj/Debug/net9.0/ConsoleApp.pdb
+/Users/chloeqo/Library/CloudStorage/OneDrive-AsiaPacificUniversity/dotnet_web_app/ConsoleApp/obj/Debug/net9.0/ConsoleApp.genruntimeconfig.cache
+/Users/chloeqo/Library/CloudStorage/OneDrive-AsiaPacificUniversity/dotnet_web_app/ConsoleApp/obj/Debug/net9.0/ref/ConsoleApp.dll
+/Users/chloeqo/Library/CloudStorage/OneDrive-AsiaPacificUniversity/dotnet_web_app/ConsoleApp/obj/Debug/net9.0/ConsoleApp.csproj.AssemblyReference.cache

@@ -1,0 +1,14 @@
+/Users/chloeqo/Library/CloudStorage/OneDrive-AsiaPacificUniversity/dotnet_web_app/dotnet_web_app/bin/Debug/net9.0/dotnet_web_app
+/Users/chloeqo/Library/CloudStorage/OneDrive-AsiaPacificUniversity/dotnet_web_app/dotnet_web_app/bin/Debug/net9.0/dotnet_web_app.deps.json
+/Users/chloeqo/Library/CloudStorage/OneDrive-AsiaPacificUniversity/dotnet_web_app/dotnet_web_app/bin/Debug/net9.0/dotnet_web_app.runtimeconfig.json
+/Users/chloeqo/Library/CloudStorage/OneDrive-AsiaPacificUniversity/dotnet_web_app/dotnet_web_app/bin/Debug/net9.0/dotnet_web_app.dll
+/Users/chloeqo/Library/CloudStorage/OneDrive-AsiaPacificUniversity/dotnet_web_app/dotnet_web_app/bin/Debug/net9.0/dotnet_web_app.pdb
+/Users/chloeqo/Library/CloudStorage/OneDrive-AsiaPacificUniversity/dotnet_web_app/dotnet_web_app/obj/Debug/net9.0/dotnet_web_app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chloeqo/Library/CloudStorage/OneDrive-AsiaPacificUniversity/dotnet_web_app/dotnet_web_app/obj/Debug/net9.0/dotnet_web_app.AssemblyInfoInputs.cache
+/Users/chloeqo/Library/CloudStorage/OneDrive-AsiaPacificUniversity/dotnet_web_app/dotnet_web_app/obj/Debug/net9.0/dotnet_web_app.AssemblyInfo.cs
+/Users/chloeqo/Library/CloudStorage/OneDrive-AsiaPacificUniversity/dotnet_web_app/dotnet_web_app/obj/Debug/net9.0/dotnet_web_app.csproj.CoreCompileInputs.cache
+/Users/chloeqo/Library/CloudStorage/OneDrive-AsiaPacificUniversity/dotnet_web_app/dotnet_web_app/obj/Debug/net9.0/dotnet_web_app.dll
+/Users/chloeqo/Library/CloudStorage/OneDrive-AsiaPacificUniversity/dotnet_web_app/dotnet_web_app/obj/Debug/net9.0/refint/dotnet_web_app.dll
+/Users/chloeqo/Library/CloudStorage/OneDrive-AsiaPacificUniversity/dotnet_web_app/dotnet_web_app/obj/Debug/net9.0/dotnet_web_app.pdb
+/Users/chloeqo/Library/CloudStorage/OneDrive-AsiaPacificUniversity/dotnet_web_app/dotnet_web_app/obj/Debug/net9.0/dotnet_web_app.genruntimeconfig.cache
+/Users/chloeqo/Library/CloudStorage/OneDrive-AsiaPacificUniversity/dotnet_web_app/dotnet_web_app/obj/Debug/net9.0/ref/dotnet_web_app.dll

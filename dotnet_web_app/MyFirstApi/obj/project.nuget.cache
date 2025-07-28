@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "S3h+2ynnDkU=",
+  "success": true,
+  "projectFilePath": "/Users/chloeqo/Library/CloudStorage/OneDrive-AsiaPacificUniversity/dotnet_web_app/dotnet_web_app/MyFirstApi/MyFirstApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/chloeqo/.nuget/packages/microsoft.aspnetcore.openapi/9.0.6/microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
+    "/Users/chloeqo/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
